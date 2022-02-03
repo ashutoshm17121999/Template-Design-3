@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    display: flex;
+  
+   padding-left: 75%;
+   padding-top: 2.5% ;
+}
+li{
+    padding: 5px 15px;
+    font-size: 15px;
+  
+    padding-left: 7%;
+}
+.logo-name{
+   
+    font-size: 30px;
+    margin-left: 4%;
+}
